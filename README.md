@@ -20,9 +20,10 @@ I'm a **Software Engineer & AI Enthusiast** with a strong interest in **Machine 
 
 ### Programming Languages
 
-* Python 🐍
-* JavaScript (basic)
+* Python 
+* JavaScript
 * Bash / Shell
+* SQL
 
 ### AI / ML
 
@@ -43,27 +44,16 @@ I'm a **Software Engineer & AI Enthusiast** with a strong interest in **Machine 
 ## 📂 Featured Interests & Projects
 
 * 🧩 Reinforcement Learning (Q-Learning, Policy-based methods)
-* 🚕 Classic RL Environments (Taxi-v3, MountainCar, GridWorld)
 * 🧠 Deep Learning architectures & embeddings
-* 🖼️ Vision-Language Models (e.g., BLIP)
-* 🔐 Cryptography basics (SHA, ChaCha)
-
-> Most repositories here are for **learning, experimentation, and portfolio building**.
-
----
-
-## 📈 GitHub Goals
-
-* Build **clean & well-documented projects**
-* Share **learning-focused repositories**
-* Grow into a **professional Software & AI Engineer**
+* 📊 Machine Learning (supervised & unsupervised learning)
+* 🧹 Data Processing & Visualization (data cleaning, analysis, and visual insights)
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 GitHub: [https://github.com/your-username](https://github.com/your-username)
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* Email: [chrisboimau.com](mailto:chrisboimau.com)
+* LinkedIn: [linkedin.com/in/chrisustomus-boimau](https://linkedin.com/in/chrisustomus-boimau)
 
 ---
 
