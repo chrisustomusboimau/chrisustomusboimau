@@ -6,7 +6,7 @@ I'm a **Software Engineer & AI Enthusiast** with a strong interest in **Machine 
 
 ---
 
-## 🚀 About Me
+## About Me
 
 * 💻 Interested in **Software Engineering** & **Artificial Intelligence**
 * 🤖 Focus areas: **Machine Learning, Reinforcement Learning, Deep Learning, AI Agents**
