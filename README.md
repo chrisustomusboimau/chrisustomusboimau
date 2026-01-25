@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chris Boimau
+# Hi, I'm Chris Boimau
 
 Welcome to my GitHub profile!
 
