@@ -52,8 +52,7 @@ I am an undergraduate Computer Science and Data Science student at **Calvin Inst
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=chrisustomusboimau&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chrisustomusboimau&theme=react-dark&hide_border=true" alt="Activity Graph" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrisustomusboimau&theme=radical" alt="GitHub Profile Summary Card" width="100%" />
 </p>
 
 ---
