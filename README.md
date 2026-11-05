@@ -12,21 +12,21 @@ I am an undergraduate Computer Science and Data Science student at **Calvin Inst
 
 ### Featured Projects
 
-*   **[SIGAP – MRP & Multi-Vendor Sourcing Platform](https://github.com/YOUR_GITHUB_USERNAME)**
+*   **[SIGAP – MRP & Multi-Vendor Sourcing Platform](https://github.com/ReubenZSTechs/SIGAP-Agentic-AI-for-Automotive-Material-Shortages)**
     *   *Tech:* Python, FastAPI, React, LangGraph, SAP AI Core, PostgreSQL
     *   End-to-end full-stack MRP platform with autonomous conversational AI agents, custom Text-to-SQL guardrails, and automated Telegram PO negotiations. 
     *   *Honor:* Finalist at the Sokrates Agentic AI Hackathon 2026 (AWS & SAP).
-*   **[Plantatio – Autonomous AI Agent System](https://github.com/YOUR_GITHUB_USERNAME)**
+*   **[Plantatio – Autonomous AI Agent System](https://github.com/ReubenZSTechs/Plantatio)**
     *   *Tech:* IoT, GraphRAG, Reinforcement Learning
     *   Autonomous AI system for precision ecological restoration governance. 
     *   *Honor:* **1st Place Winner** at Technofest 2026 Agentic AI Competition (Student Category).
-*   **[MMOA-RAG Multi-Agent System](https://github.com/YOUR_GITHUB_USERNAME)**
+*   **[MMOA-RAG Multi-Agent System]**
     *   *Tech:* Reinforcement Learning, DPO, Llama Factory, Llama 3.2, Qwen 2.5
     *   Multi-Module joint Optimization Algorithm for RAG using Cooperative MARL, aligned via SFT and Direct Preference Optimization (DPO).
-*   **[Galeria Sophilia Ticketing System](https://github.com/YOUR_GITHUB_USERNAME)**
+*   **[Galeria Sophilia Ticketing System]**
     *   *Tech:* React, FastAPI, Supabase, Vercel
     *   Dynamic full-stack ticketing software featuring queue management and automated data export capabilities.
-*   **[Damdaman AI Simulation Environment](https://github.com/YOUR_GITHUB_USERNAME)**
+*   **[Damdaman AI Simulation Environment](https://github.com/chrisustomusboimau/DamDaman)**
     *   *Tech:* Python, PPO, Q-Learning, Minimax (Alpha-Beta Pruning)
     *   Custom object-oriented simulation environment and automated tournament system benchmarking strategic AI agents for the traditional Indonesian board game.
 
